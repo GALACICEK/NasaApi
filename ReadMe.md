@@ -2,6 +2,8 @@
 
 An example project for data science that using Nasa Api.
 
+https://sti.nasa.gov/docs/20221122_OpenAPI_Documentation.pdf
+
 
 ## Requirements:
 
